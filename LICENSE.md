@@ -1,4 +1,4 @@
-# 
+# VIP Postman plugins for Mac OS | Smart Postman plugins for PC Windows. Featuring code-navigation and syntax-highlighting — optimized for maximum performance on every platform.
 
 
 
